@@ -31,7 +31,7 @@ El proyecto utiliza [Git](https://git-scm.com/) para el control de versiones. Pu
 - **David Esteban** - Desarrollo y documentación del proyecto.
 
 ## Licencia
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT.
 
 ## Recursos adicionales
 - [Tema sobre Flex de moddle]([https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox](https://educacionadistancia.juntadeandalucia.es/centros/almeria/pluginfile.php/147630/mod_resource/content/2/Flexbox_y_CSS_Grid.pdf))
