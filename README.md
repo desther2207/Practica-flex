@@ -34,5 +34,5 @@ El proyecto utiliza [Git](https://git-scm.com/) para el control de versiones. Pu
 Este proyecto está bajo la Licencia MIT.
 
 ## Recursos adicionales
-- [Tema sobre Flex de moddle]([https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox](https://educacionadistancia.juntadeandalucia.es/centros/almeria/pluginfile.php/147630/mod_resource/content/2/Flexbox_y_CSS_Grid.pdf))
+- [Tema sobre Flex de moddle](https://educacionadistancia.juntadeandalucia.es/centros/almeria/pluginfile.php/147630/mod_resource/content/2/Flexbox_y_CSS_Grid.pdf)
 - [Repositorio GitHub del proyecto](https://github.com/desther2207/Practica-flex/tree/main)
