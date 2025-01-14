@@ -18,7 +18,7 @@ El proyecto ha sido desarrollado utilizando las siguientes etapas:
 
 ## Despliegue
 Puedes acceder a la página principal del proyecto a través del siguiente enlace:
-[MaquetacionFLEX_Practica01c - Página Principal](https://github.com/desther2207/MaquetacionFLEX_Practica01c)
+[MaquetacionFLEX_Practica01c - Página Principal](https://github.com/desther2207/Practica-flex/tree/main)
 
 ## Construido con
 - **HTML5**
@@ -35,4 +35,4 @@ Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE
 
 ## Recursos adicionales
 - [Tema sobre Flex de moddle]([https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox](https://educacionadistancia.juntadeandalucia.es/centros/almeria/pluginfile.php/147630/mod_resource/content/2/Flexbox_y_CSS_Grid.pdf))
-- [Repositorio GitHub del proyecto](https://github.com/desther2207/MaquetacionFLEX_Practica01c)
+- [Repositorio GitHub del proyecto](https://github.com/desther2207/Practica-flex/tree/main)
